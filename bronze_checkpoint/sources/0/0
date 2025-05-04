@@ -1,0 +1,5 @@
+v1
+{"path":"file:///c:/Users/natha/Desktop/projet_big_data/stream/chunk_1.csv","timestamp":1746185831894,"batchId":0}
+{"path":"file:///c:/Users/natha/Desktop/projet_big_data/stream/chunk_2.csv","timestamp":1746185837070,"batchId":0}
+{"path":"file:///c:/Users/natha/Desktop/projet_big_data/stream/chunk_3.csv","timestamp":1746185842254,"batchId":0}
+{"path":"file:///c:/Users/natha/Desktop/projet_big_data/stream/chunk_4.csv","timestamp":1746185847407,"batchId":0}
