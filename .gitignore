@@ -1,3 +1,4 @@
 source/flights.csv
 stream/*
 Bronze/*
+bronze_checkpoint/
