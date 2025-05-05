@@ -2,3 +2,8 @@ source/flights.csv
 stream/*
 Bronze/*
 bronze_checkpoint/
+spark-warehouse/
+gold/*
+metastore_db/
+silver/*
+source/
